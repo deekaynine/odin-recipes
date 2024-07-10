@@ -1,3 +1,3 @@
 Foundationals Course
 
-Building a recipes app to refresh on fundamentals.
+Building a recipes app as a refresher
