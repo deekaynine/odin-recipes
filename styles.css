@@ -1,0 +1,50 @@
+.odd {
+background-color: #f57a7a;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two{
+color: #6265ee;
+font-size: 36px;
+}
+
+#four{
+    background-color: hsl(106, 89%, 71%);
+    font-size: 24px;
+}
+
+.bigger-font{
+font-size: 24px
+}
+
+.shared-button{
+    border: 5px green ;
+    font-size: 28px;
+}
+
+.shared-button.first-button{
+    color: white;
+    background-color: black;
+}
+
+.shared-button.second-button{
+    color: black;
+    background-color: yellow;
+}
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+  }
+  
+  .avatar.distorted {
+    height: 400px;
+    width: 200px;
+  }
+
+  .container .text {
+    background-color: yellow;
+    color: #8f1e1e;
+    font-size: 20px;
+    text-align: center;
+  }
